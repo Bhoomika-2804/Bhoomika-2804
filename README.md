@@ -13,13 +13,6 @@
 - 🗄️ MySQL
 - 📊 Excel
 - 🌐 HTML
-- 
-
----
-
-## 📈 GitHub Stats
-
-![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoomika-2804&show_icons=true&theme=radical)
 
 ---
 
