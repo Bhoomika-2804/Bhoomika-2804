@@ -1,5 +1,5 @@
  # Hi there 👋, I'm Bhoomika
-# 🚀 Passionate Data Analyst | SQL Enthusiast
+🚀 Passionate Data Analyst | SQL Enthusiast
                               
 
 🎯 A passionate learner and aspiring developer.
