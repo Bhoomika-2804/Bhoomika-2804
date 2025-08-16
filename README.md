@@ -1,17 +1,17 @@
   # Hi there 👋, I'm Bhoomika
-  🚀 Passionate Data Analyst | SQL Enthusiast
+🚀 Passionate Data Analyst | SQL Enthusiast
                               
 
-🎯 A passionate learner and aspiring developer.
-💻 I’m currently exploring **Java** & **Backend fundamentals**
+•🎯 A passionate learner and aspiring developer.
+•💻 I’m currently exploring **Java** & **Backend fundamentals**
 
-🌱 Eager to work on real-world projects and contribute to open-source.
+•🌱 Eager to work on real-world projects and contribute to open-source.
 
-🧠 Strong in SQL, Excel, and data cleaning/analysis
+•🧠 Strong in SQL, Excel, and data cleaning/analysis
 
-💬 Ask me about anything related to data visualization
+•💬 Ask me about anything related to data visualization
 
-📫 Reach me at : upendrambhoomi28@gmail.com
+•📫 Reach me at : upendrambhoomi28@gmail.com
 
 
 ---
