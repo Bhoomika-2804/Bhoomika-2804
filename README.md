@@ -1,6 +1,6 @@
   # Hi 👋, I'm Bhoomika Upendram
   
-  ## 👩🏻‍💻 Python Full Stack Developer | SQL Enthusiast | Data Science Learner | B.Tech CSE (DS)
+  ### 👩🏻‍💻 Python Full Stack Developer | SQL Enthusiast | Data Science Learner | B.Tech CSE (DS)
   Welcome to my GitHub Profile!
   
   🎓 Recent B.Tech Computer Science & Engineering (Data Science) Graduate.
