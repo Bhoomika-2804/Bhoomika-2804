@@ -29,29 +29,29 @@ I'm a passionate CSE(DS) graduate, interested in building wed applications and e
 
 ## 🛠️ Technical Skills
 
-## Programming Languages
+### Programming Languages
   - Python
   - SQL (Oracle)
 
-## Web Technologies
+### Web Technologies
   - HTML5
   - CSS3
   - JavaScript
 
-## Core Concepts
+### Core Concepts
  - Data Structures & Algorithms
  - Object-Oriented Programming (OOP)
  - Database Management Systems (DBMS)
 
-## Frameworks & Technologies
+### Frameworks & Technologies
  - Django
  - Django REST Framework
  - REST API
 
-## Database
+### Database
  - Oracle databases
 
-## Tools & Platforms
+### Tools & Platforms
  - Git
  - GitHub
  - VS COde
@@ -63,13 +63,13 @@ I'm a passionate CSE(DS) graduate, interested in building wed applications and e
 
 ## 📂 Featured Projects
 
-## 🛰️ Solar Panel Monitoring using Deep neural networks
+### 🛰️ Solar Panel Monitoring using Deep neural networks
    - Developed a deep leaning-based framework for solar panel fault detection and classification.
    - used CNN, MobileNet V3, DenseNet and other deep learning architectures.
    - Identified faults such as dust,snow,hotspots and open circuits.
    - Focused on improving solar panel monitoring and efficiency.
 
-## 🎨 Color Detection Tool Using Image Click
+### 🎨 Color Detection Tool Using Image Click
    - Built a Python application that identifies colors from images through mouse clicks.
    - Extracted pixel RGB values and mapped them to standard color names.
    - Implemented image processing and color recognition techniques.
@@ -79,7 +79,9 @@ I'm a passionate CSE(DS) graduate, interested in building wed applications and e
 ## 🏆 Achievements
 
 🎓 Academic Excellence - Recognized for maintaining a CGPA of 9.24
+
 🥇 AeroHack 2025 - Collins Aerospace Hackathon Finalist.
+
 🏅 Participated in JusPay Hiring Challenge on Unstop
 
 ----
