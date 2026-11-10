@@ -84,7 +84,7 @@ I'm a passionate CSE(DS) graduate, interested in building wed applications and e
 
 ----
 
-##📜 Certifications
+## 📜 Certifications
 
   - Advanced Data Science Certification – Indo-Euro Synchronization (IES)
   - SQL(Basic, Intermediate, Advanced) certificate by HackerRank
@@ -93,7 +93,7 @@ I'm a passionate CSE(DS) graduate, interested in building wed applications and e
 
 ---
 
-##🌐 Connect With Me
+## 🌐Connect With Me
 
 📧 Email: upendrambhoomi28@gmail.com
 
